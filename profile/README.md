@@ -1,0 +1,12 @@
+## This is You 33 Networks Organization 
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - Wolf Child Black Stone Revival ?
+🌈 Contribution guidelines - Join us backstage?
+👩‍💻 Useful resources - https://github.com/Good4lien/SpaceX/issues?q=is%3Aissue+is%3Aopen+author%3Athisisyou33-publishing-networks? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
